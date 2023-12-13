@@ -1,7 +1,7 @@
 {
-  "name": "porfolio",
+  "name": "modelethree.js",
   "version": "1.0.0",
-  "description": "Xen0r-star's porfolio",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack --config config/webpack.prod.js",
@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "acorn": "^8.11.2",
     "copy-webpack-plugin": "^11.0.0",
